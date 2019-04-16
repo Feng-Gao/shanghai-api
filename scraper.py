@@ -5,6 +5,7 @@ from fake_useragent import UserAgent
 import re
 import scraperwiki
 import datetime
+import os
 
 import sys
 
